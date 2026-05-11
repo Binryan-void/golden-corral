@@ -1,5 +1,5 @@
 #################################################################################
-# Copyright (C) 2026 Binryan-Arch-py
+# Copyright (C) 2026 Binryan-void
 #
 # Este programa es software libre: puedes redistribuirlo y/o modificarlo
 # bajo los terminos de la Licencia Publica General GNU publicada por la 
